@@ -7,7 +7,7 @@ html {
 }
 
 body {
-    color: #f0166f;
+    color: #40e07d; /* Cambiado a verde */
     font-family: monospace;
     font-size: 16px;
     line-height: 1.4;
@@ -115,5 +115,5 @@ img {
 }
 
 a {
-    color: #fff;
+    color: #40e07d; /* Cambiado a verde */
 }
